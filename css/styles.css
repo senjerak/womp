@@ -1,0 +1,17 @@
+.pee{
+    margin: auto;
+    height: 100px;
+    width: 100px;
+    background-image: url('https://media0.giphy.com/media/35OVrKH19U8L7lwUqy/200w.gif?cid=82a1493b70wxfsev1fhe8e13dsx8w06r6i2xjvvct9pjrqty&rid=200w.gif&ct=s');
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  
+  .poo{
+    height: 165px;
+  }
+  
+  p{
+    margin: auto;
+    text-align: center;
+  }
